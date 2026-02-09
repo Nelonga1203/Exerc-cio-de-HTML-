@@ -3,11 +3,11 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 h1 {
-    color:blueviolet;text-align: center;
+    color:rgb(113, 26, 147);text-align: center;
 }
 h2 {
-    color: rebeccapurple;
+    color: rgb(44, 9, 79);
 }
 p {
-    color:blueviolet;
+    color:rgb(141, 18, 110);
 }
